@@ -8,3 +8,6 @@
     border: 3px skyblue;
     object-fit: cover;
 }
+li{
+    list-style: none ;
+}
